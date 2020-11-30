@@ -1,0 +1,26 @@
+{
+  "name": "parcel-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "parcel src/index.html",
+    "prod": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duckiduc/parcel-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Duckiduc/parcel-test/issues"
+  },
+  "homepage": "https://github.com/Duckiduc/parcel-test#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
